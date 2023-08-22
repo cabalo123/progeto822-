@@ -1,0 +1,30 @@
+body {
+text-align: center;
+background: rgb(91,221,154);
+background: linear-gradient(90deg, rgba(91,221,154,1) 29%, rgba(0,255,102,1) 100%);
+color:black;
+}
+
+
+#myCanvas{
+background-color: aquamarine;
+border-style: ridge;
+border-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
